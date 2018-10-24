@@ -1,1 +1,2 @@
-Hey this is a README text file!
+# ORMThogaKade
+This is Object Relational Mapping (Hibernate) which is made with JavaFX
